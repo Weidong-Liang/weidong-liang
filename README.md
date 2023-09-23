@@ -1,16 +1,18 @@
-### Hi there 👋
+## Hello everyone, i'm Weidong
+### Welcome to my profile 😉
 
-<!--
-**Weidong-Liang/weidong-liang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning: Python, AI, DB
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: The more I learn, more I realized that I know nothing
+##
+
+
+
+<a href="https://github.com/weidong-liang/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=weidong-liang&show_icons=true&theme=ocean_dark" />
+</a>
+<a href="https://github.com/weidong-liang/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=weidong-liang&theme=ocean_dark&layout=compact&langs_count=8&card_width=320" />
+</a>
+
